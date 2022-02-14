@@ -6,10 +6,10 @@ var invisibleBlockGroup, invisibleBlock;
 var gameState = "play"
 
 function preload(){
-  seaImg = loadImage("sea.png");
-  sharkImg = loadImage("shark.png");
-  climberImg = loadImage("climber.png");
-  fishImg = loadImage("fish.png");
+  seaImg = loadImage("assets/sea.png");
+  sharkImg = loadImage("assets/shark.png");
+  climberImg = loadImage("assets/climber.png");
+  fishImg = loadImage("assets/fish.png");
 }
 
 function setup(){
